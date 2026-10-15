@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/click-contrib/click-repl/commit/cab5f48382dfff7b7449b3a182f5f9e34ae53050",
       "git:hexsha": "cab5f48382dfff7b7449b3a182f5f9e34ae53050",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:29:18.041015+00:00"
     },
     {
       "@id": "https://repolex.ai/r/click-contrib/click-repl/commit/444fdc3ce8efdace715a962ff9a37245027a8a2b",
